@@ -1,3 +1,4 @@
+#i am forked
 #Runs goostats on list of files
 for datafile in *[AB].txt
 do
